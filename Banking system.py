@@ -35,6 +35,4 @@ while True:
             print(f"The loan amount is added to your balance , Which will be cut in next deposit")
             balance += loan
             print("You balance is:", balance)
-print("Thank you for trusting:")
-
-        
+print("Thank You for Trusting: ")
